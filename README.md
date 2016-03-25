@@ -13,7 +13,7 @@ Markdown 简明语法手册
 * [链接](#link) 
     * 文字超链接
     *  锚点
-    * [图片超链接](#piclink)
+    * 图片超链接
 * [图片](#pic)
 * [列表](#dot)
     * 圆点列表
@@ -220,15 +220,15 @@ document.write(fib(10));
     Content Cell  | Content Cell
     Content Cell  | Content Cell
     
-    | 表头1  | 表头2|
-    | ------------- | ------------- |
-    | Content Cell  | Content Cell  |
-    | Content Cell  | Content Cell  |
+    表头1  | 表头2		
+    ------------- | ------------- 
+    Content Cell  | Content Cell  
+    Content Cell  | Content Cell  
     
-    | 名字 | 描述          |
-    | ------------- | ----------- |
-    | Help      | Display the help window.|
-    | Close     | Closes a window     |
+    名字 | 描述          
+    ------------- | ----------- 
+     Help      | Display the help window.
+     Close     | Closes a window     
     
     表格中也可以使用普通文本的删除线，斜体等效果
     
@@ -249,7 +249,8 @@ document.write(fib(10));
     
     | 图片 | 描述 |
     | ---- | ---- |
-    ![V](https://github.com/gnipbao/gnipbao.github.io/blob/master/img/V.png) | V字
+    
+    ![V](https://github.com/gnipbao/gnipbao.github.io/blob/master/img/V.png) 
 
 
 ### 15. Html 标签
