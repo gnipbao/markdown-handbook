@@ -100,15 +100,15 @@ Markdown 简明语法手册
 
 ### 7. 数字列表自动排序
 也可以在第一行指定`1. `，而接下来的几行用星号`*`（或者继续用数字1. ）就可以了，它会自动显示成2、3、4……    
-  面向对象的七大原则：
+面向对象的七大原则：
       
-    1. 开闭原则
-    * 里氏转换原则
-    * 依赖倒转原则
-    * 接口隔离原则
-    * 组合/聚合复用原则
-    * “迪米特”法则
-    * 单一直则原则 
+1. 开闭原则
+* 里氏转换原则
+* 依赖倒转原则
+1. 接口隔离原则
+1. 组合聚合复用原则
+1. 迪米特法则
+1. 单一直则原则 
     
 ### 8. 多级数字列表
 和圆点的列表一样，数字列表也有多级结构：  
@@ -220,37 +220,36 @@ document.write(fib(10));
     Content Cell  | Content Cell
     Content Cell  | Content Cell
     
-    表头1  | 表头2		
-    ------------- | ------------- 
-    Content Cell  | Content Cell  
-    Content Cell  | Content Cell  
+    |表头1  | 表头2        |		
+    |------------- | -------------| 
+    |Content Cell  | Content Cell | 
+    |Content Cell  | Content Cell | 
     
-    名字 | 描述          
-    ------------- | ----------- 
-     Help      | Display the help window.
-     Close     | Closes a window     
+|名字 | 描述          
+|------------- | -----------| 
+|Help      | Display the help window.|
+|Close     | Closes a window |    
     
-    表格中也可以使用普通文本的删除线，斜体等效果
+表格中也可以使用普通文本的删除线，斜体等效果
     
-    | 名字 | 描述          |
-    | ------------- | ----------- |
-    | Help      | ~~Display the~~ help window.|
-    | Close     | _Closes_ a window     |
+| 名字 | 描述          |
+| ------------- | ----------- |
+| Help      | ~~Display the~~ help window.|
+| Close     | _Closes_ a window     |
     
-    表格可以指定对齐方式
+表格可以指定对齐方式
     
-    | 左对齐 | 居中  | 右对齐 |
-    | :------------ |:---------------:| -----:|
-    | col 3 is      | some wordy text | $1600 |
-    | col 2 is      | centered        |   $12 |
-    | zebra stripes | are neat        |    $1 |
+| 左对齐 | 居中  | 右对齐 |
+| :------------ |:---------------:| -----:|
+| col 3 is      | some wordy text | $1600 |
+| col 2 is      | centered        |   $12 |
+| zebra stripes | are neat        |    $1 |
     
-    表格中嵌入图片
-    
-    | 图片 | 描述 |
-    | ---- | ---- |
-    
-    ![V](https://github.com/gnipbao/gnipbao.github.io/blob/master/img/V.png) 
+表格中嵌入图片
+
+| 图片 | 描述 |
+| ---- | ---- |
+![V](https://github.com/gnipbao/gnipbao.github.io/blob/master/img/V.png) |图片
 
 
 ### 15. Html 标签
