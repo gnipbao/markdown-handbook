@@ -249,7 +249,7 @@ document.write(fib(10));
 
 | 图片 | 描述 |
 | ---- | ---- |
-![V]https://github.com/gnipbao/gnipbao.github.io/blob/master/img/markdown.jpg) |图片
+![V](https://github.com/gnipbao/gnipbao.github.io/blob/master/img/markdown.jpg) |图片
 
 
 ### 15. Html 标签
