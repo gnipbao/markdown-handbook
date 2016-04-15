@@ -207,12 +207,12 @@ document.write(fib(10));
 
 插入图片示例：
 
-![Markdown](https://github.com/gnipbao/gnipbao.github.io/blob/master/img/markdown.jpg)
+![Markdown](https://github.com/gnipbao/gnipbao.github.io/blob/master/images/markdown.jpg)
 
 给图片添加链接:
 
 [![V]](http://gnipbao.github.io/css3-test/src/Funny-demo/Button/index.html)
-[V]:https://github.com/gnipbao/gnipbao.github.io/blob/master/img/markdown.jpg
+[V]:https://github.com/gnipbao/gnipbao.github.io/blob/master/images/markdown.jpg
 
 ### <a name="table"/>14.显示表格
     表头1  | 表头2
@@ -249,7 +249,7 @@ document.write(fib(10));
 
 | 图片 | 描述 |
 | ---- | ---- |
-![V](https://github.com/gnipbao/gnipbao.github.io/blob/master/img/markdown.jpg) |图片
+![Markdown](https://github.com/gnipbao/gnipbao.github.io/blob/master/images/markdown.jpg) |图片
 
 
 ### 15. Html 标签
