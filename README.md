@@ -2,7 +2,7 @@
 :kissing:Markdown 简明语法手册:kissing:
 
 ---
-##<a name="index"/>目录
+## <a name="index"/>目录
 * [标题](#title)
 * [文本](#text)
     * 普通文本
@@ -24,7 +24,8 @@
 * [表格](#table) 
 * [表情](#emoji)
 
-###1.标题<a name="title"/>
+<a name="title"/>
+###1.标题
 
 行首加井号表示不同级别的标题 (H1-H6),例如：# H1, ## H2, ### H3，#### H4.
 #一级标题
