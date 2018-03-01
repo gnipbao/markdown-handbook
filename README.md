@@ -83,7 +83,7 @@
 
 使用 \[描述](链接地址) 为文字增加外链接。
 
-这是去往 [有趣的HTML5和CSS3特效在线演示地址](http://gnipbao.github.io/css3-test/menu.html) 的链接。
+这是去往 [有趣的HTML5和CSS3特效在线演示地址](https://gnipbao.github.io/h5-test/3dtag.html) 的链接。
 
 ### 6.锚点<a name=""/>
 我们可以使用HTML的锚点标签（`#`）来设置锚点：[回到目录](#index)  
