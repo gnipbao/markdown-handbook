@@ -326,7 +326,7 @@ document.write(fib(10));
     - [ ] 浏览日本免税店的物品
     - [x] 购买蓝宝石公主号七月一日的船票
 
-#### <a name="emoji"/>17.添加表情
+### <a name="emoji"/>17.添加表情
 Github的Markdown语法支持添加emoji表情，输入不同的符号码（两个冒号包围的字符）可以显示出不同的表情.
 
 比如`:blush:`，可以显示:blush:.
