@@ -223,7 +223,8 @@ document.write(fib(10));
 
 给图片添加链接:
 [\!\[alt](图片地址)](图片链接地址)
-[![girl](https://user-images.githubusercontent.com/16514704/107886329-1077b900-6f3a-11eb-8ffc-33f2e24c5a03.jpg)](http://gnipbao.github.io/css3-test/src/Funny-demo/Button/index.html)
+
+[![girl](https://user-images.githubusercontent.com/16514704/107886329-1077b900-6f3a-11eb-8ffc-33f2e24c5a03.jpg)](https://gnipbao.github.io/)
 
 ### <a name="table"/>14.显示表格
     表头1  | 表头2
