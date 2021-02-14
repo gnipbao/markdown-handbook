@@ -219,12 +219,11 @@ document.write(fib(10));
 
 插入图片示例：
 
-![Markdown](https://github.com/gnipbao/gnipbao.github.io/blob/master/images/markdown.jpg)
+![girl](https://user-images.githubusercontent.com/16514704/107886329-1077b900-6f3a-11eb-8ffc-33f2e24c5a03.jpg)
 
 给图片添加链接:
-
-[![V]](http://gnipbao.github.io/css3-test/src/Funny-demo/Button/index.html)
-[V]:https://github.com/gnipbao/gnipbao.github.io/blob/master/images/markdown.jpg
+[\!\[alt](图片地址)](图片链接地址)
+[![girl](https://user-images.githubusercontent.com/16514704/107886329-1077b900-6f3a-11eb-8ffc-33f2e24c5a03.jpg)](http://gnipbao.github.io/css3-test/src/Funny-demo/Button/index.html)
 
 ### <a name="table"/>14.显示表格
     表头1  | 表头2
